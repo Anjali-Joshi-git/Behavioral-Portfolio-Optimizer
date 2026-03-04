@@ -174,4 +174,4 @@ Data Science | Quantitative Finance | Behavioral Modeling
 
 ---
 
-⭐ If you found this project useful, consider giving it a star.
+
